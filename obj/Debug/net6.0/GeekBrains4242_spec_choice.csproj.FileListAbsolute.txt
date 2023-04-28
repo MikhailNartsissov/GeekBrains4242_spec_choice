@@ -1,0 +1,15 @@
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\bin\Debug\net6.0\GeekBrains4242_spec_choice.exe
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\bin\Debug\net6.0\GeekBrains4242_spec_choice.deps.json
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\bin\Debug\net6.0\GeekBrains4242_spec_choice.runtimeconfig.json
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\bin\Debug\net6.0\GeekBrains4242_spec_choice.dll
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\bin\Debug\net6.0\GeekBrains4242_spec_choice.pdb
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\obj\Debug\net6.0\GeekBrains4242_spec_choice.csproj.AssemblyReference.cache
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\obj\Debug\net6.0\GeekBrains4242_spec_choice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\obj\Debug\net6.0\GeekBrains4242_spec_choice.AssemblyInfoInputs.cache
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\obj\Debug\net6.0\GeekBrains4242_spec_choice.AssemblyInfo.cs
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\obj\Debug\net6.0\GeekBrains4242_spec_choice.csproj.CoreCompileInputs.cache
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\obj\Debug\net6.0\GeekBrains4242_spec_choice.dll
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\obj\Debug\net6.0\refint\GeekBrains4242_spec_choice.dll
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\obj\Debug\net6.0\GeekBrains4242_spec_choice.pdb
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\obj\Debug\net6.0\GeekBrains4242_spec_choice.genruntimeconfig.cache
+C:\Users\Михаил Нарциссов\source\repos\GeekBrains4242_spec_choice\obj\Debug\net6.0\ref\GeekBrains4242_spec_choice.dll
